@@ -89,6 +89,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
