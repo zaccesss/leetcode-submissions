@@ -88,11 +88,13 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zaccesss/leetcode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zaccesss/leetcode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zaccesss/leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Sorting
