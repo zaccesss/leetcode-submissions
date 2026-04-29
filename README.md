@@ -96,6 +96,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0242-valid-anagram](https://github.com/zaccesss/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -159,12 +161,15 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
