@@ -95,6 +95,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0169-majority-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zaccesss/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -153,4 +155,16 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
