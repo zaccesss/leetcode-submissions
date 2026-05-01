@@ -92,6 +92,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0014-longest-common-prefix](https://github.com/zaccesss/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/zaccesss/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/zaccesss/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -113,6 +114,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/zaccesss/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/zaccesss/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zaccesss/leetcode-submissions/tree/master/0242-valid-anagram) |
@@ -135,6 +137,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/zaccesss/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
