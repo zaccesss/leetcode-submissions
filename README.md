@@ -96,6 +96,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0169-majority-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/zaccesss/leetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -175,4 +176,12 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | ------- |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
