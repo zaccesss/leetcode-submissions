@@ -180,8 +180,10 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/zaccesss/leetcode-submissions/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/zaccesss/leetcode-submissions/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
