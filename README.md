@@ -95,6 +95,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0075-sort-colors](https://github.com/zaccesss/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/zaccesss/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/zaccesss/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0304-range-sum-query-2d-immutable](https://github.com/zaccesss/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/zaccesss/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
@@ -169,6 +170,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/zaccesss/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/zaccesss/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/zaccesss/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -186,4 +188,12 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | ------- |
 | [0396-rotate-function](https://github.com/zaccesss/leetcode-submissions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/zaccesss/leetcode-submissions/tree/master/0788-rotated-digits) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/zaccesss/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/zaccesss/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
