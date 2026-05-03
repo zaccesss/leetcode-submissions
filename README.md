@@ -131,6 +131,7 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 | [0014-longest-common-prefix](https://github.com/zaccesss/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/zaccesss/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/zaccesss/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/zaccesss/leetcode-submissions/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -196,4 +197,8 @@ Made with 💻 by [Isaac Adjei (Zaccess)](https://zacess.com)
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/zaccesss/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/zaccesss/leetcode-submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
